@@ -9,4 +9,6 @@ Please visit the following link if you want to know more about them:
 The course focuses on API development and API consumption.
 
 ## Notes:
-The exercises are separated in folders. Inside each main folder, you will find the exercise announcement.
+The exercises are separated in folders. (todocode -> src -> main -> java).
+
+Inside each main folder, you will find the exercise announcement.
